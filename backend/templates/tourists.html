@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourists</title>
+</head>
+<body>
+    <h2>Registered Tourists</h2>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Contact</th>
+            <th>Itinerary</th>
+        </tr>
+        {% for t in tourists %}
+        <tr>
+            <td>{{ t.id }}</td>
+            <td>{{ t.name }}</td>
+            <td>{{ t.contact }}</td>
+            <td>{{ t.itinerary }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    
+</body>
+</html>

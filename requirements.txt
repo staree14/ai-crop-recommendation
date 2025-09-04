@@ -1,0 +1,21 @@
+# Core
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+
+# Forms and validation
+Flask-WTF
+
+# Authentication and password security
+Flask-Login
+Flask-Bcrypt
+
+# API and requests
+requests
+
+# Blockchain integration (optional, in case you connect to Ethereum/Polygon)
+web3
+
+# For environment variable management (clean config handling)
+python-dotenv
+
