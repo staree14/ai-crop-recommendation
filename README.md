@@ -7,6 +7,9 @@ The **AI Crop Recommendation System** is a data-driven decision support tool des
 By leveraging machine learning, the system aims to improve crop yield, reduce risk, and promote sustainable agriculture.
 
 ---
+<img width="369" height="740" alt="TeamDelusion_AI_crop_recommendation (1)" src="https://github.com/user-attachments/assets/ed379460-ae92-49f0-b890-7bece5db2edb" />
+
+
 
 ## 🎯 Objectives
 
@@ -30,7 +33,9 @@ By leveraging machine learning, the system aims to improve crop yield, reduce ri
 * Fast and accurate recommendations
 * Scalable design for integration with web or mobile applications
 
+
 ---
+
 
 ## 🗂️ Dataset
 
