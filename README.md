@@ -17,10 +17,9 @@ Beyond crop recommendation, the platform integrates:
 * 🗣 Multilingual voice and text support for rural accessibility  
 
 By leveraging Artificial Intelligence, Machine Learning, and Deep Learning technologies, the system aims to increase crop yield, reduce agricultural risk, improve profitability, and promote sustainable farming practices.
-
-<img width="369" height="740" alt="TeamDelusion_AI_crop_recommendation (1)" src="https://github.com/user-attachments/assets/ed379460-ae92-49f0-b890-7bece5db2edb" />
-
-
+<p align="center">
+<img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/c0868c17-a97f-4f85-8750-5634195d2bcb" />
+</p>
 
 ## 🎯 Objectives
 
@@ -58,11 +57,14 @@ By leveraging Artificial Intelligence, Machine Learning, and Deep Learning techn
 
 
 ---
-<img width="329" height="659" alt="TeamDelusion_AI_crop_recommendation (2)" src="https://github.com/user-attachments/assets/a280d608-247c-4d11-b518-0e28ebb745d6" />
-
-<img width="316" height="633" alt="TeamDelusion_AI_crop_recommendation" src="https://github.com/user-attachments/assets/4d370456-5b6a-40e7-9653-841705430276" />
-
-
+<p align="left">
+   <h3> TOP 3 CROPS RECOMMENDATION</h3>
+<img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/86e23a0c-5e50-41ec-ad0d-37a625e15775" />
+</p>
+<p align="right">
+   <h3> CHECKING CROP HEALTH </h3>
+<img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/594f1455-c454-47e8-9a81-7ad039b1c180" />
+  </p>
 
 ## 🗂️ Dataset
 
